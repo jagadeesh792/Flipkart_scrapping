@@ -1,4 +1,4 @@
-pythonbeautifulsoup4==2.0.1
+pythonbeautifulsoup4==4.11.1
 brotlipy==0.7.0
 bs4==0.0.1
 chardet==3.0.4
