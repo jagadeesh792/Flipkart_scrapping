@@ -1,2 +1,2 @@
 python-3.6.13
-pythonbeautifulsoup4-4.11.1
+pythonbeautifulsoup4-4.11.9
